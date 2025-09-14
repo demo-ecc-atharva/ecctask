@@ -5,7 +5,7 @@ from tkinter import Tk, Canvas, messagebox, font
 # Game setup variables
 canvas_width = 800
 
-canvas_height = 550
+canvas_height = 500
 
 
 
